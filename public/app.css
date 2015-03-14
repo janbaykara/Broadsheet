@@ -1,0 +1,11 @@
+html {
+  font-feature-settings: "kern";
+  font-kerning: normal;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+
+  font-size: 16px;
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  line-height: 1.4em;
+}
